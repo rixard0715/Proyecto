@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgba(78, 8, 8, 0.9);
+}
+h1{
+    color: white;
+    font-size: 4em;
+    text-align: center;
+}
+.alinear_flex{
+    display:flex;
+    justify-content:center
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+    
+   }
+.btn-1{
+   background-color: gold;
+   border:1px;
+   padding: 10px;
+   color: black;
+   margin-right: 100px;
+   margin-left: 100px;
+}
+.btn-2{
+   background-color: gold;
+   border: 1px;
+   padding:10px;
+   color: black;
+   margin-right:100px ;
+   margin-left: 100px;
+}
+.btn-3{
+   background-color: gold;
+   border: 1px;
+   padding: 10px;
+   color: black;
+   margin-right: 100px;
+   margin-left: 100px;
+}
+h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+ color: orange;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 1.5em;
+}
+.navegar{
+    background-color: white;
+}
+.navegar a{
+    color: #826;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 110px;
+}
+.navegar2{
+    color: white;
+    padding: 2em;
+    font-size: 15px;
+    text-align: center;
+}
+.navegar a:hover{
+    background-color:lightblue;
+    color: white;
+    padding: 5px;
+}
+h2{ 
+    color: gold ;
+    font-size: 2em;
+    text-align: center;
+}
